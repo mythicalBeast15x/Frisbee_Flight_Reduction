@@ -1,0 +1,6 @@
+path: /Users/lovedivineonwulata/PycharmProjects/Frisbee-Flight-Reduction-Model/data #absolute path
+train: images/train
+val: images/train
+
+names:
+  0: Flying Disc
